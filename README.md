@@ -9,6 +9,8 @@ Make sure Rocket League is configured for the Stats API to send payloads: https:
 ## Usage
 Set up your blueprint as the following screenshot to get the Rocket League data. The data string you can plug in Game Data or Player Data Converter to sort through the incoming data and use in your project. 
 
+![alt text](https://github.com/gjverhoeff/RocketLeagueStatsAPI_UE5/blob/main/Resources/usageimage.png?raw=true)
+
 
 
 
