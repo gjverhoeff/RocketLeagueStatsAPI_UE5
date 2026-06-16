@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.8",
+	"FriendlyName": "Rocket League StatsAPI Integration",
+	"Description": "Unofficial plugin to receive and make Rocket League Stats API data available in UE5",
+	"Category": "esports",
+	"CreatedBy": "Sumatras Studios",
+	"CreatedByURL": "http://www.geertverhoeff.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RocketLeagueStatsAPI",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
